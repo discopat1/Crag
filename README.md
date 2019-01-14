@@ -1,5 +1,13 @@
 # Crag
-Web application meant to lower the barrier of entry to those new to  rock climbing in the Denver metro. The application gathers some qucik input from the user to determine the best climbing locations. The user is then directed to a map with the chosen locations and is given weather info and meetup info about those locations. 
+![alt text](screenshots/crag-home.png)
+#### Web application meant to lower the barrier of entry to those new to rock climbing in the Denver metro. The user first signs up to use the application. 
+![alt text](screenshots/crag-signup.png)
+#### The user then answers a few questions to determine the best climbing locations. 
+![alt text](screenshots/crag-options.png)
+#### The user is then directed to a map with the chosen locations and is given various information about those locations. 
+![alt text](screenshots/crag-problems.png)
+![alt text](screenshots/crag-weather.png)
+![alt text](screenshots/crag-meetups.png)
 
 # Built with:
 * HTML - Front End design
